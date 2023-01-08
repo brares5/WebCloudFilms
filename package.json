@@ -1,0 +1,24 @@
+{
+  "name": "biglab2-area",
+  "version": "1.0.0",
+  "description": "Team members:\r * s123456 LASTNAME FIRSTNAME\r * s123456 LASTNAME FIRSTNAME \r * s123456 LASTNAME FIRSTNAME\r * s123456 LASTNAME FIRSTNAME (delete line if not needed)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polito-WA1-AJ-2022-exam/biglab2-area.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polito-WA1-AJ-2022-exam/biglab2-area/issues"
+  },
+  "homepage": "https://github.com/polito-WA1-AJ-2022-exam/biglab2-area#readme",
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  }
+}

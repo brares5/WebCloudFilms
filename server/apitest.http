@@ -1,0 +1,48 @@
+GET http://localhost:3000/api/v1/films
+
+###
+
+GET http://localhost:3000/api/v1/favs
+
+###
+
+GET http://localhost:3000/api/v1/bestrated
+
+###
+
+GET http://localhost:3000/api/v1/seenlastmonth
+
+###
+
+GET http://localhost:3000/api/v1/unseen
+
+###
+
+GET http://localhost:3000/api/v1/films/2
+
+###
+POST http://localhost:3000/api/v1/films
+Content-Type: application/json
+
+{
+    "title": "Test Test 3",
+    "favorite": true,
+    "date": "2022-05-11",
+    "rating": 3
+}
+
+###
+
+PUT http://localhost:3000/api/v1/films/update/2
+Content-Type: application/json
+
+{
+    "title": "21 Grams",
+    "favorite": true,
+    "date": "2022-05-18",
+    "rating": 4
+}
+
+###
+
+DELETE http://localhost:3000/api/v1/films/delete/6
