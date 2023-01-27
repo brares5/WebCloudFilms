@@ -1,13 +1,5 @@
 # Web & Cloud Application
 
-## Group: 1241EA
-
-Team members:
-* ARGHIR ANDA-VALENTINA
-* BIRZANEANU RARES 
-* CANEA VALENTIN-DUMITRU
-* MAFTEI MIHAI
-
 ## Registered Users
 
 
